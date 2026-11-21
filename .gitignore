@@ -1,0 +1,11 @@
+# Налаштування IntelliJ IDEA
+.idea/
+*.iml
+
+# Скомпільований код
+out/
+*.class
+
+# Системні файли
+.DS_Store
+Thumbs.db
